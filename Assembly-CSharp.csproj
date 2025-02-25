@@ -65,17 +65,7 @@
     <Compile Include="Assets\Scenes\AudioSpectrum.cs" />
     <Compile Include="Assets\Scenes\TimedActivation.cs" />
     <Compile Include="Assets\Scenes\FallingSpheres.cs" />
-    <Compile Include="Assets\SkyboxWater\Water Stylized Shader Orto &amp; Perspective Camera\Scripts\FloatingObject.cs" />
     <Compile Include="Assets\Scenes\Sin Wave.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\SkyboxWater\Water Stylized Shader Orto &amp; Perspective Camera\Textures\Snow\license.txt" />
-    <None Include="Assets\SkyboxWater\Water Stylized Shader Orto &amp; Perspective Camera\Shader\HLSL\InterpolateHSV.hlsl" />
-    <None Include="Assets\SkyboxWater\Water Stylized Shader Orto &amp; Perspective Camera\Shader\HLSL\DistortUV.hlsl" />
-    <None Include="Assets\Beach\Super Beach Pack\Snowconesolid Assets ReadMe.txt" />
-    <None Include="Assets\Beach\Super Beach Pack\Super Beach Ball Pack\Snowconesolid Assets ReadMe.txt" />
-    <None Include="Assets\SkyboxWater\Water Stylized Shader Orto &amp; Perspective Camera\Shader\HLSL\MainLighting.hlsl" />
-    <None Include="Assets\SkyboxWater\Water Stylized Shader Orto &amp; Perspective Camera\Shader\HLSL\GrestnerWaves.hlsl" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
